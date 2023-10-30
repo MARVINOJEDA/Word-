@@ -1,2 +1,2 @@
 # Word-
-Archivos de Word, Excel, Powerpoint
+Archivos de Word
